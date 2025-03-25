@@ -4,4 +4,4 @@ Here I implemented the different variations of Log-Reg to handle the classificat
 - Sigmoid Function
 - Gradient Descent
 - Softmax
-
+- Polynomial Logistic Regression
